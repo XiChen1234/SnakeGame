@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>appleS.png</file>
+        <file>backButton.png</file>
+        <file>backButton2.png</file>
+        <file>backGround.png</file>
+        <file>classicMode.png</file>
+        <file>classicMode2.png</file>
+        <file>exitButton.png</file>
+        <file>exitButton2.png</file>
+        <file>hellMode.png</file>
+        <file>hellMode2.png</file>
+        <file>logo.ico</file>
+        <file>multiMode.png</file>
+        <file>multiMode2.png</file>
+        <file>papple.png</file>
+        <file>rules1.png</file>
+        <file>rules2.png</file>
+        <file>rules3.png</file>
+        <file>rulesButton.png</file>
+        <file>rulesButton2.png</file>
+        <file>snakeBody2S.png</file>
+        <file>snakeBodyS.png</file>
+        <file>snakeHeadDown2S.png</file>
+        <file>snakeHeadDownS.png</file>
+        <file>snakeHeadLeft2S.png</file>
+        <file>snakeHeadLeftS.png</file>
+        <file>snakeHeadRight2S.png</file>
+        <file>snakeHeadRightS.png</file>
+        <file>snakeHeadUp2S.png</file>
+        <file>snakeHeadUpS.png</file>
+        <file>start.png</file>
+        <file>startButton.png</file>
+        <file>startButton2.png</file>
+        <file>bgm2.wav</file>
+        <file>split.wav</file>
+        <file>tree.png</file>
+        <file>snakeTailDown2S.png</file>
+        <file>snakeTailDownS.png</file>
+        <file>snakeTailLeft2S.png</file>
+        <file>snakeTailLeftS.png</file>
+        <file>snakeTailRight2S.png</file>
+        <file>snakeTailRightS.png</file>
+        <file>snakeTailUp2S.png</file>
+        <file>snakeTailUpS.png</file>
+    </qresource>
+</RCC>
